@@ -257,7 +257,8 @@ pre { width: 52.5%;
 .fullwidth { max-width: 90%;
              clear:both; }
 
-span.newthought { font-variant: small-caps;
+span.newthought { font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+				  font-variant: small-caps;
                   font-size: 1.2em; }
 
 input.margin-toggle { display: none; }
